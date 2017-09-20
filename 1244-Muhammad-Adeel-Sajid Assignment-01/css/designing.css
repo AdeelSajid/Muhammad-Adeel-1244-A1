@@ -1,0 +1,247 @@
+/* my css file */
+body{
+	margin: 10px;
+	background-color: ##F5F5F5;
+}
+.imageheader img{
+	width: 100%;
+	height: 400px;
+	margin-bottom: 10px;
+	background-position: cover;
+}
+.imageheadSecond img{
+	height:200px;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.nav {
+	width:92.5%;
+	background-color: #2F4F4F;
+	float:left;
+	margin-top: :50px;
+	padding-right: 100px;
+}
+.nav img{
+	
+}
+.nav ul{
+	list-style:none;
+	margin:0;
+}
+.nav ul li{
+	float:right;
+}
+.nav ul li a{
+	display:block;
+	color:white;
+	padding:15px;
+	text-decoration:none;
+	margin:0;
+	float:left;
+	font-size:22;	
+	font-family:times;
+}
+.nav ul li a:hover{
+	background-color:white;
+	color:black;
+}
+
+.picture{
+	margin-left: 150px;
+	margin-top: 120px;
+	margin-right: 100px;
+	margin-bottom: 5px;
+	float: left;
+}
+.paragraph{
+	color: white;
+	width: 600px; 
+	margin-right: 80px;
+	margin-left: 40px;
+	float: left;
+	margin-bottom: 30px;
+}
+.paragraph hr{
+	clear: both;
+	margin-top:30px;
+}
+.paragraph h1{
+	text-align:center;
+	font-size: 40px;
+	color: black;
+ }
+.paragraph p{
+	font-size: 22px;
+	text-align: justify;
+	color: black;
+}
+
+.paragraph h1 span{
+	color: red;
+}
+.paragraph button{
+	font-size: 1em;
+	background-color: green;
+	float: left;
+	padding: 5px;
+	border:outset;
+	margin-left:  480px;
+	border-radius: 5px;
+}
+.paragraph button:hover{
+	background-color: darkgreen;
+}
+.bottomparagraph{
+	width: 300px; 
+	float: left;
+	margin: 20px;
+	text-align: justify;
+	border-style: double;
+	padding: 10px;
+	height: 350px;
+	color: white;
+	color: black;
+}
+.bottomparagraph img{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+#bottomarticle{
+	margin-left: 120px;
+}
+.footer{
+	background-color: #2F4F4F;
+	clear: both;
+	float: left;
+		width: 98%;
+		padding-left: 20px;
+		padding-right:10px; 
+		margin-bottom: 20px;
+		margin-top: 10px;
+}
+.footerdiv{
+	padding-top: 20px;
+	float: left;
+	color: white;
+	
+}
+.footerpic{
+
+	float: right;
+}
+.footerpic img{
+	
+	width: 24px;
+	height: 24px;
+}
+.footerpic li{
+	list-style: none;
+	float: left;
+	padding-top: 10px;
+	padding: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+}
+
+/*  Contact page      ---------------------*/
+#contactfront{
+	text-align: center;
+	
+	
+	padding: 30px;
+}
+#contactfront h1{
+	font-size: 40px;
+}
+#contactfront p{
+	font-size: 25px;
+}
+
+.askquestion{
+	margin-left: 450px;
+}
+.askquestion table tr td button{
+	margin-left: 180px
+}
+.askquestion th{
+	font-size: 20px;
+}
+.input{
+	border: 3px double black; 
+	width: 258px;
+}
+.textarea { 
+    border: 3px double black; 
+    height:150px; 
+    width: 320px; 
+  }
+ 
+/*About US Page-----------------------*/
+
+
+#adressblock{
+
+	width: 300px;
+	margin:30px;
+	margin-left: 150px;
+	float: left;
+}
+
+#adressblock span{
+	font-size: 18px;
+}
+#adressblock h2{
+	
+}
+#adressblock p{
+	
+	font-size: 20px;
+}
+#mappicture{
+
+	width: 200px;
+	height: 250px;
+	margin-left: 10px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	margin-right: 70px;
+	float: left;
+
+}
+#mappicture:hover{
+	cursor: pointer;
+
+}
+
+
+/*product   -------------=   ====================*/
+#productbody{
+	margin-right: 20px;
+}
+.table{
+	padding: 0px;
+	width: 100%;
+
+}
+.table th span{
+	color: red;
+}
+.table td{
+	border-bottom: 1px solid;
+	padding: 0px;
+	margin: 0px;
+}
+.imagetable{
+	
+}
+.imagetable img{
+	height: 220px;
+	width: 175.2px;
+}
+.imagetable figcaption{
+	text-align: center;
+}
+.imagetable span{
+	color: blue;
+}s
